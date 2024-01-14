@@ -23,6 +23,12 @@
 
 ## Screenshots
 
+![](/image/github-profile-card.gif)
+
+## Netlify
+
+- https://github-user-information-retrieval.netlify.app/
+
 ## Contribution
 
 - If you would like to contribute to the project, please fork it and submit a pull request. We welcome any contributions and suggestions.
